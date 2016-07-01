@@ -1,13 +1,10 @@
-Project: YouTube Downloader
-Author: John Eckman
-URL: https://github.com/jeckman/YouTube-Downloader
-License: GPL v2 or Later
-
+#YouTubeDownloader
 PHP Scripts to download videos from YouTube.  
 
-NOTE: YouTube Downloader does not work with videos using a cipher signature. 
+http://awesometoad-anthonybao.rhcloud.com/youtubedownloader/
 
-See https://github.com/jeckman/YouTube-Downloader/issues/9
+
+NOTE: YouTube Downloader does not work with videos using a cipher signature. 
 
 You can manually visit a web form (the index.php file), enter a YouTube
 video id, and get in return a list of links showing the various formats in which
@@ -28,7 +25,3 @@ You can also pass in a specific format number, if you know it.
 
 Note this approach, because it redirects you to the file itself, currently bypasses the
 proxy option, so if your browser/server setup requires the proxy to work these will fail. 
-  
-Enjoy!
-
-John
